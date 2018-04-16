@@ -26,4 +26,4 @@ with(dftemp, {
         plot(DateTime, Global_reactive_power, type = "l",lty= 1, ylabel= "Global Rective Power")
         
 })
-de.off()
+dev.off()
